@@ -4,9 +4,7 @@
  This repository is for STCrowd dataset and official implement for **STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**.
 
 ## Dataset 
-To be add for our website...
-
-Currently, dataset can download from this  [link](http://103.21.143.204:34369/share/EmiZpfjR?diskhost=http://103.21.143.204:53505).
+Our website can be download from the [Homepage](http://4dvlab-stcrowd.sist.shanghaitech.edu.cn).
 
 ## Installation
 
