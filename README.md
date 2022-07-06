@@ -5,6 +5,7 @@
 
 ## Dataset 
 Our website can be download from the [Homepage](http://4dvlab-stcrowd.sist.shanghaitech.edu.cn).
+* notion: If this website can't access, it may be DNS is polluted by vpn,  please check the DNS and clear DNS Cache, for mac can refer [this](https://chinese.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache/) and for windows just **flushdns**. 
 
 ## Installation
 
