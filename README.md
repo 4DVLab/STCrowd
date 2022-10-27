@@ -6,7 +6,7 @@
 ## Dataset 
 Our website can be download from the [Homepage](http://4dvlab-stcrowd.sist.shanghaitech.edu.cn).
 * note: If this website can't access, it may be DNS is polluted by vpn,  please check the DNS and clear DNS Cache, for mac can refer [this](https://chinese.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache/) and for windows just **flushdns**. 
-
+Also the dataset can be directly download from [STCrowd DATA](http://103.21.143.204:34369/share/EmiZpfjR?diskhost=http://103.21.143.204:53505) .
 ## Installation
 
 ### Requirements
