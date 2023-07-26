@@ -4,8 +4,8 @@
  This repository is for STCrowd dataset and official implement for **STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**.
 
 ## Dataset 
-Our website can be download from the [Homepage](http://4dvlab-stcrowd.sist.shanghaitech.edu.cn).
-* note: If this website can't access, it may be DNS is polluted by vpn,  please check the DNS and clear DNS Cache, for mac can refer [this](https://chinese.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache/) and for windows just **flushdns**. 
+Our website can be download from the [Homepage](https://github.com/4DVLab/HuCenLife).
+
 Also the dataset can be directly download from [STCrowd DATA](https://drive.google.com/file/d/1cw8Ats2jYSkUK-g-5lumF2pY_NKSehKS/view?usp=sharing) .
 ## Installation
 
