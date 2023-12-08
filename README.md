@@ -62,5 +62,6 @@ python STCrowd_conver.py --path  Path_To_STCrowd --split 'train'
 ```
 
 ##  License:
-All datasets are published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.
+
+All datasets are published under the [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 This means that you must attribute the work in the manner specified by the authors, you may not use this work for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license. 
