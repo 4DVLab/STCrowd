@@ -7,6 +7,10 @@
 Our website can be download from the [Homepage](https://4dvlab.github.io/STCrowd/index.html).
 
 Also the dataset can be directly download from [STCrowd DATA](https://drive.google.com/file/d/1cw8Ats2jYSkUK-g-5lumF2pY_NKSehKS/view?usp=sharing) .
+or from Baidu:
+https://pan.baidu.com/s/1AhNaOc1GCrxnDZ46Yupa5A?pwd=z6a7 
+key: z6a7 
+
 ## Installation
 
 ### Requirements
